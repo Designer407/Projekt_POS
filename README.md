@@ -1,2 +1,2 @@
 # Projekt_POS
-Aplikacja ma zostać zrealizowana w JAVIE środowisku NetBeans.
+Aplikacja ma zostać zrealizowana w JAVIE w środowisku NetBeans.
