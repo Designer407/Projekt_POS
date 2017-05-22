@@ -1,2 +1,2 @@
 # Projekt_POS
-Hello
+Aplikacja ma zostać zrealizowana w JAVIE środowisku NetBeans.
